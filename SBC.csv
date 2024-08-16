@@ -1,0 +1,5 @@
+Device-IP,Device-Name,Admin-User,Admin-Password
+10.0.0.1,Japan-SBC,Admin,kjhfewrg7erg
+192.168.2.5,Kyoto-SBC,Admin,okjfhr237rze
+10.35.95.5,US-CORE-SBC,Admin,gergetz
+192.168.25.4,Bonn-SBC,Admin,h45gfb
